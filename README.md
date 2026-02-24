@@ -49,5 +49,3 @@ The analysis followed a structured Exploratory Data Analysis (EDA) approach, cul
 - **Excel:** For initial data inspection and validation.
 
 **Conclusion :-** The analysis highlights that MediBuddy's operational challenges are primarily due to predictable health and lifestyle risk factors rather than random chance. By leveraging these insights, the company can significantly improve profitability, customer satisfaction and long-term sustainability through risk-based pricing and proactive health promotion.
-
-
